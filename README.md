@@ -9,3 +9,5 @@ Creating HTML docs, adding the HTML boilerplate from memory, and adding relative
 Adding images into documents with attribution.
 
 Creating ordered and unordered lists, including lists of linked pages.
+
+Changing text color, background color, text alignment, font size, family, and weight, and underlining text.

@@ -1,0 +1,18 @@
+.title {
+    color: darkslateblue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.container {
+    background-color: #cbf5dd;
+    color: black;
+}
+
+.container.index {
+    background-color: #F1D3B2;
+}
+
+.para {
+    text-align: justify;
+}
